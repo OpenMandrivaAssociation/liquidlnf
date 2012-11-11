@@ -1,0 +1,12 @@
+diff -p -up liquidlnf-2.9.1/src/com/birosoft/liquid/LiquidInternalFrameTitlePane.java.orig liquidlnf-2.9.1/src/com/birosoft/liquid/LiquidInternalFrameTitlePane.java
+--- liquidlnf-2.9.1/src/com/birosoft/liquid/LiquidInternalFrameTitlePane.java.orig	2011-01-07 15:48:46.265869006 -0200
++++ liquidlnf-2.9.1/src/com/birosoft/liquid/LiquidInternalFrameTitlePane.java	2011-01-07 15:48:55.246868996 -0200
+@@ -10,7 +10,7 @@
+ package com.birosoft.liquid;
+ 
+ import com.birosoft.liquid.util.LiquidUtilities;
+-import com.sun.java.swing.SwingUtilities2;
++//import com.sun.java.swing.SwingUtilities2;
+ import java.awt.Color;
+ import java.awt.Component;
+ import java.awt.Container;
