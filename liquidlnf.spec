@@ -49,3 +49,11 @@ cp -far dist/bin/* %{buildroot}%{_javadir}/liquidlnf
 %files
 %defattr(-,root,root)
 %{_javadir}/liquidlnf
+
+
+%changelog
+* Fri Jan 07 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.9.1-1mdv2011.0
++ Revision: 629669
+- Import liquidlnf 2.9.1
+- liquidlnf
+
