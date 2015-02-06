@@ -3,7 +3,7 @@ Group:		Graphics
 Summary:	Java look and feel based on the Mosfet Liquid KDE 3.x theme
 Version:	2.9.1
 License:	LGPLv2.1
-Release:	%mkrel 1
+Release:	2
 # register an user at https://www.dev.java.net
 # cvs -d :pserver:username@cvs.dev.java.net:/cvs checkout liquidlnf
 # cp -far liquidlnf liquidlnf-2.9.1
